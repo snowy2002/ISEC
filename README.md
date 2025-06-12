@@ -76,3 +76,6 @@ python code/data_generate.py
 ```bash
 python code/train.py
 ```
+
+## 测试结果
+![image1](images/image1.png)
