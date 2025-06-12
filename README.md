@@ -1,7 +1,7 @@
 ## ISEC
 Towards Inference Service with Edge Computing: the Framework and an Improved Firefly Algorithm
 
-![图片描述](https://github.com/snowy2002/ISEC/blob/main/images/image.png)
+![图片描述](images/image0.png)
 
 ## 数据说明
 以下是整理后的数据表格，包含参数、取值范围及说明：
@@ -78,4 +78,17 @@ python code/train.py
 ```
 
 ## 测试结果
+#### 不同参数对我们框架性能的影响
 ![image1](images/image1.png)
+
+#### 与基线FA的收敛性对比 
+![image2](images/image2.png)
+
+#### ACT与AR的性能对比
+![image3](images/image3.png)
+
+#### ACT和CR的性能对比
+![image4](images/image4.png)
+
+#### RPD 与 Runtime 的性能对比
+![image5](images/image5.png)
